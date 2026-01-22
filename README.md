@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📱 Proyectos destacados
+## 📱 Proyectos destacados .☘︎ ݁˖
 
 - 📱 **Wikz Mobile** – Red social móvil (Android)
 - 💻 **Wikz Desktop** – Aplicación de escritorio (Windows Forms)
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📫 Contacto
+## 📫 Contacto ᝰ.ᐟ
 
 - 📧 Email: nicolasdocampovidal@gmail.com
 - 💼 LinkedIn: Nicolas Docampo Vidal

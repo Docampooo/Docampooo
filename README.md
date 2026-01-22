@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧠 Actualmente aprendiendo ᯓ★
+## Actualmente aprendiendo ᯓ★
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php" />

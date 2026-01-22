@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">Programador en formación | Desarrollo móvil, escritorio y backend .✦ ݁˖</h3>
 
----
 
 ## Tecnologías que he aprendido .𖥔 ݁ ˖𓂃.☘︎ ݁˖
 
@@ -22,7 +21,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=java,cs,androidstudio,html,css,js,mysql,git" />
 </p>
 
----
 
 ## Actualmente aprendiendo ᯓ★
 
@@ -30,7 +28,6 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=php" />
 </p>
 
----
 
 ## 📱 Proyectos destacados .☘︎ ݁˖
 
@@ -38,13 +35,13 @@ Here are some ideas to get you started:
 - 💻 **Wikz Desktop** – Aplicación de escritorio (Windows Forms)
 - 🌐 **API REST** – Java + MariaDB
 
----
+
 
 ## 📫 Contacto ᝰ.ᐟ
 
 - 📧 Email: nicolasdocampovidal@gmail.com
 - 💼 LinkedIn: Nicolas Docampo Vidal
 
----
+
 
 ⭐ Espero que te interesen mis proyectos y que te sirvan de ayuda! 

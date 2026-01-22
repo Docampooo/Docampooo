@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## 🧠 Actualmente aprendiendo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,kotlin" />
+  <img src="https://skillicons.dev/icons?i=php" />
 </p>
 
 ---

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Tecnologías que he aprendido
+## Tecnologías que he aprendido
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,androidstudio,html,css,js,mysql,git" />

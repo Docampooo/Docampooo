@@ -21,14 +21,14 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=java,cs,androidstudio,html,css,js,mysql,git" />
 </p>
 
-
+---
 ## Actualmente aprendiendo ᯓ★
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php" />
 </p>
 
-
+---
 ## 📱 Proyectos destacados .☘︎ ݁˖
 
 - 📱 **Wikz Mobile** – Red social móvil (Android)
@@ -36,12 +36,11 @@ Here are some ideas to get you started:
 - 🌐 **API REST** – Java + MariaDB
 
 
-
+---
 ## 📫 Contacto ᝰ.ᐟ
 
 - 📧 Email: nicolasdocampovidal@gmail.com
 - 💼 LinkedIn: Nicolas Docampo Vidal
-
 
 
 ⭐ Espero que te interesen mis proyectos y que te sirvan de ayuda! 

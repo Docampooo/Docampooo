@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">Programador en formación | Desarrollo móvil, frontend y backend .✦ ݁˖</h3>
+<h3 align="center">Desarrollo móvil, Ciberseguridad, frontend y backend .✦ ݁˖</h3>
 
 
 ## Tecnologías que he aprendido .𖥔 ݁ ˖𓂃.☘︎ ݁˖

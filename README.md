@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 ---
 ## 📫 Contacto ᝰ.ᐟ
 
-- 📧 Email: nicolasdocampovidal@gmail.com
 - 💼 LinkedIn: [Nicolas Docampo Vidal](https://www.linkedin.com/in/nicolas-docampo-vidal-0825613a7/)
 
 
